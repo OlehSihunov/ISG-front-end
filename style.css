@@ -89,42 +89,42 @@ header {
     color: var(--light);
 }
 
-.card--react,
-.card--react a {
+.card_react,
+.card_react a {
     color: var(--react-color);
 }
 
-.card--react .card__button:hover {
+.card_react .card__button:hover {
     background-color: var(--react-color);
     transition: 0.3s;
 }
 
-.card--redux,
-.card--redux a {
+.card_redux,
+.card_redux a {
     color: var(--redux-color);
 }
 
-.card--redux .card__button:hover {
+.card_redux .card__button:hover {
     background-color: var(--redux-color);
     transition: 0.3s;
 }
 
-.card--saga,
-.card--saga a {
+.card_saga,
+.card_saga a {
     color: var(--saga-color);
 }
 
-.card--saga .card__button:hover {
+.card_saga .card__button:hover {
     background-color: var(--saga-color);
     transition: 0.3s;
 }
 
-.card--git,
-.card--git a {
+.card_git,
+.card_git a {
     color: var(--git-color);
 }
 
-.card--git .card__button:hover {
+.card_git .card__button:hover {
     background-color: var(--git-color);
     transition: 0.3s;
 }
@@ -140,23 +140,23 @@ header {
     margin: 25px;
 }
 
-.text-block--react,
-.link--react {
+.text-block_react,
+.link_react {
     background-color: var(--react-color);
 }
 
-.text-block--redux,
-.link--redux {
+.text-block_redux,
+.link_redux {
     background-color: var(--redux-color);
 }
 
-.text-block--saga,
-.link--saga {
+.text-block_saga,
+.link_saga {
     background-color: var(--saga-color);
 }
 
-.text-block--git,
-.link--git {
+.text-block_git,
+.link_git {
     background-color: var(--git-color);
 }
 
